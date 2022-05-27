@@ -1,3 +1,14 @@
+## Current Status
+    1 --Userdata is encrypted need to fix (working on it....)
+    2 -- need to upddate twrp.flags
+    3 -- find a way to patch ramdisk on pc or on Android.
+            -- because  fastboot boot is not working
+    4 -- cleanup
+    
+    you can help me on [Telegram]("https://t.me/RedmiNote11t")
+
+
+
 # Device configuration for XiaoMi Redmi Note 11T 5G
 
 ## Spec Sheet
